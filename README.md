@@ -7,3 +7,5 @@ This is my project work for loading Hotel data from CSV file to MySQL database. 
 3. I am working on transformations to make data much cleaner and consistent.
 4. My target state to move this to Stored Procedure.
 5. Final stage of the project will be a fully automated ETL process for loading this dataset.
+
+Reference Data: https://www.kaggle.com/datafiniti/hotel-reviews
